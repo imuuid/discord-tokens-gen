@@ -1,1 +1,1 @@
-# uuid-tokens-gen
+# discord tokens gen
