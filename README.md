@@ -1,4 +1,4 @@
-discord.gg/uuid to buy
+discord.gg/intruser to buy
 LifeTime: 10$
 SourceCode: 80$
 
